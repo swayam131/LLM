@@ -28,7 +28,5 @@ Python 3.8 or above
 
 A compatible virtual environment manager (e.g., venv, conda)
 
-Required Python libraries listed in requirements.txt
-
 For any issues or inquiries, feel free to open an issue or contact the repository maintainer.
 
