@@ -1,16 +1,16 @@
-####Enhancer Generator for a Specific Gene Using LangChain and Streamlit
+****Enhancer Generator for a Specific Gene Using LangChain and Streamlit
 
-###Overview
+***Overview
 
 This repository provides a pipeline for generating gene-specific enhancers using LangChain and Streamlit. The workflow is divided into two main components:
 
-Langchain-initial.ipynb: A Jupyter Notebook for initial model training and data preparation.
+**Langchain-initial.ipynb: A Jupyter Notebook for initial model training and data preparation.
 
 Application Scripts:
 
-Langchain_helper.py: Helper functions and utilities for LangChain integration.
+**Langchain_helper.py: Helper functions and utilities for LangChain integration.
 
-main.py: The main application script for running the Streamlit-based interface.
+**main.py: The main application script for running the Streamlit-based interface.
 
 Features
 
